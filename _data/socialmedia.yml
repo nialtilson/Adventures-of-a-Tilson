@@ -1,0 +1,29 @@
+- name: LinkedIn
+  url: https://www.linkedin.com/in/nialtilson
+  class: icon-linkedin
+  title: "LinkedIn Profile"
+
+- name: Xing
+  url: https://www.xing.com/profile/Nial_Tilson
+  class: icon-xing
+  title: "Xing Profile"
+
+- name: GitHub
+  url: https://github.com/nialtilson
+  class: icon-github
+  title: "Code and more!..."
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCo8R5zAo6gwwQq65DRWNxGA
+  class: icon-youtube
+  title: "Nial's Youtube Channel"
+
+- name: Facebook
+  url: https://www.facebook.com/nial.tilson
+  class: icon-facebook
+  title: "Facebook Profile"
+
+- name: Twitter
+  url: https://twitter.com/anialator12
+  class: icon-twitter
+  title: "aNIALator12 - twitter, mothballed"

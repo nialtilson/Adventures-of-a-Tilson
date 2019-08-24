@@ -1,0 +1,32 @@
+- title: "Home"
+  url: "/"
+  side: left
+
+- title: "Blogs"
+  url: "/Blogs/"
+  side: left
+  dropdown:
+  - title: "Deustchland, Here We Go!"
+    url: "/Blogs/Deustchland, Here We Go!/"
+  - title: "Wandering the World with Nial"
+    url: "/Blogs/Wandering the World with Nial/"
+
+- title: "Projects"
+  url: "/Projects/"
+  side: left
+  dropdown:
+  - title: "Bikes"
+    url: "/Projects/Bikes/"
+  - title: "Woodworking"
+
+- title: "Photos"
+  url: "/Photos/"
+  side: left
+
+- title: "Search"
+  url: "/Search/"
+  side: right 
+
+- title: "Contact"
+  url: "/Contact"
+  side: right
